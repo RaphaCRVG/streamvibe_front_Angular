@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 import { Header } from './componentes/header/header';
 import { Filme } from './componentes/filme/filme';
 import { Footer } from './componentes/footer/footer';
